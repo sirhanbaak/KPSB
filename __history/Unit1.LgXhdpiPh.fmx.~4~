@@ -1,0 +1,51 @@
+inherited Form1_LgXhdpiPh: TForm1_LgXhdpiPh
+  ClientHeight = 695
+  ClientWidth = 450
+  DesignerMasterStyle = 0
+  inherited Panel1: TPanel
+    Size.Width = 450.000000000000000000
+  end
+  inherited Layout2: TLayout
+    Size.Width = 450.000000000000000000
+    Size.Height = 638.000000000000000000
+    inherited TabControl1: TTabControl
+      Size.Width = 450.000000000000000000
+      Sizes = (
+        450s
+        0s
+        450s
+        0s
+        450s
+        0s
+        450s
+        0s
+        450s
+        0s)
+      inherited TabItem1: TTabItem
+        Size.Width = 90.000000000000000000
+        ExplicitSize.cx = 65.000000000000000000
+        ExplicitSize.cy = 49.000000000000000000
+      end
+      inherited TabItem2: TTabItem
+        Size.Width = 90.000000000000000000
+        ExplicitSize.cx = 65.000000000000000000
+        ExplicitSize.cy = 49.000000000000000000
+      end
+      inherited TabItem3: TTabItem
+        Size.Width = 90.000000000000000000
+        ExplicitSize.cx = 65.000000000000000000
+        ExplicitSize.cy = 49.000000000000000000
+      end
+      inherited TabItem4: TTabItem
+        Size.Width = 90.000000000000000000
+        ExplicitSize.cx = 65.000000000000000000
+        ExplicitSize.cy = 49.000000000000000000
+      end
+      inherited TabItem5: TTabItem
+        Size.Width = 90.000000000000000000
+        ExplicitSize.cx = 69.000000000000000000
+        ExplicitSize.cy = 49.000000000000000000
+      end
+    end
+  end
+end

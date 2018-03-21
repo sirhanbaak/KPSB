@@ -1,0 +1,129 @@
+object Form1: TForm1
+  Left = 0
+  Top = 0
+  Caption = 'Form1'
+  ClientHeight = 597
+  ClientWidth = 329
+  FormFactor.Width = 320
+  FormFactor.Height = 480
+  FormFactor.Devices = [Desktop]
+  DesignerMasterStyle = 3
+  object Panel1: TPanel
+    Align = MostTop
+    Size.Width = 329.000000000000000000
+    Size.Height = 57.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 0
+    object Button1: TButton
+      Position.X = 64.000000000000000000
+      Position.Y = 20.000000000000000000
+      Size.Width = 129.000000000000000000
+      Size.Height = 37.000000000000000000
+      Size.PlatformDefault = False
+      TabOrder = 1
+      Text = 'Dashboard'
+    end
+  end
+  object Layout1: TLayout
+    Align = Client
+    Size.Width = 329.000000000000000000
+    Size.Height = 540.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 2
+    object TabControl1: TTabControl
+      Align = Top
+      Size.Width = 329.000000000000000000
+      Size.Height = 49.000000000000000000
+      Size.PlatformDefault = False
+      StyleLookup = 'tabcontrolstyle'
+      TabHeight = 49.000000000000000000
+      TabIndex = 0
+      TabOrder = 0
+      TabPosition = PlatformDefault
+      Sizes = (
+        329s
+        0s
+        329s
+        0s
+        329s
+        0s
+        329s
+        0s
+        329s
+        0s)
+      object TabItem1: TTabItem
+        CustomIcon = <
+          item
+          end>
+        TextSettings.Font.Size = 10.000000000000000000
+        StyledSettings = [Family, Style, FontColor]
+        IsSelected = True
+        Size.Width = 65.000000000000000000
+        Size.Height = 49.000000000000000000
+        Size.PlatformDefault = False
+        StyleLookup = ''
+        TabOrder = 0
+        Text = 'Route'
+      end
+      object TabItem2: TTabItem
+        CustomIcon = <
+          item
+          end>
+        TextSettings.Font.Size = 10.000000000000000000
+        TextSettings.WordWrap = True
+        StyledSettings = [Family, Style, FontColor]
+        IsSelected = False
+        Size.Width = 65.000000000000000000
+        Size.Height = 49.000000000000000000
+        Size.PlatformDefault = False
+        StyleLookup = ''
+        TabOrder = 0
+        Text = 'Sales and Service'
+      end
+      object TabItem3: TTabItem
+        CustomIcon = <
+          item
+          end>
+        TextSettings.Font.Size = 10.000000000000000000
+        StyledSettings = [Family, Style, FontColor]
+        IsSelected = False
+        Size.Width = 65.000000000000000000
+        Size.Height = 49.000000000000000000
+        Size.PlatformDefault = False
+        StyleLookup = ''
+        TabOrder = 0
+        Text = 'PAF'
+      end
+      object TabItem4: TTabItem
+        CustomIcon = <
+          item
+          end>
+        TextSettings.Font.Size = 10.000000000000000000
+        TextSettings.WordWrap = True
+        StyledSettings = [Family, Style, FontColor]
+        IsSelected = False
+        Size.Width = 65.000000000000000000
+        Size.Height = 49.000000000000000000
+        Size.PlatformDefault = False
+        StyleLookup = ''
+        TabOrder = 0
+        Text = 'Orders and Delivery'
+      end
+      object TabItem5: TTabItem
+        CustomIcon = <
+          item
+          end>
+        TextSettings.Font.Size = 10.000000000000000000
+        TextSettings.WordWrap = True
+        StyledSettings = [Family, Style, FontColor]
+        IsSelected = False
+        Size.Width = 69.000000000000000000
+        Size.Height = 49.000000000000000000
+        Size.PlatformDefault = False
+        StyleLookup = ''
+        TabOrder = 0
+        Text = 'Customer and Aging'
+      end
+    end
+  end
+end

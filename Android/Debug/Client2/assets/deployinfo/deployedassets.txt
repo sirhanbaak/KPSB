@@ -1,0 +1,2 @@
+.\assets\internal\Amazon Ember.ttf
+.\assets\internal\Bookerly.ttf
