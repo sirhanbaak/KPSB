@@ -4,8 +4,8 @@
 		<NoProfile iOSSimulator="iPhone5" Android="E5ATCT021012"/>
 	</ActiveMobileDevice>
 	<Transactions>
-    <Transaction>2018/03/19 19:31:47.000.265,C:\Users\ASUS\Documents\Embarcadero\Studio\Projects\KPSB\TabbedApplication.dproj=C:\Users\ASUS\Documents\Embarcadero\Studio\Projects\KPSB\Client.dproj</Transaction>
+    <Transaction>2018/03/19 19:31:47.000.265,C:\Users\ASUS\Documents\Embarcadero\Studio\Projects\KPSB\Client.dproj=C:\Users\ASUS\Documents\Embarcadero\Studio\Projects\KPSB\TabbedApplication.dproj</Transaction>
     <Transaction>2018/03/20 10:43:59.000.103,=C:\Users\ASUS\Documents\Embarcadero\Studio\Projects\KPSB\FMX.FontGlyphs.Android.pas</Transaction>
-    <Transaction>2018/03/20 11:34:37.000.063,C:\Users\ASUS\Documents\Embarcadero\Studio\Projects\KPSB\Client.dproj=C:\Users\ASUS\Documents\Embarcadero\Studio\Projects\KPSB\Client1.dproj</Transaction>
+    <Transaction>2018/03/20 11:34:37.000.063,C:\Users\ASUS\Documents\Embarcadero\Studio\Projects\KPSB\Client1.dproj=C:\Users\ASUS\Documents\Embarcadero\Studio\Projects\KPSB\Client.dproj</Transaction>
   </Transactions>
 </BorlandProject>
