@@ -1,855 +1,1214 @@
 ﻿[StyleBook1]
-Coordinates=158,232,80,36
+Coordinates=158,232,70,33
 
 [Panel2]
-Coordinates=318,322,55,36
+Coordinates=318,322,47,33
 
 [Panel1]
-Coordinates=253,322,55,36
+Coordinates=253,322,47,33
 
 [Button2]
-Coordinates=535,10,59,58
+Coordinates=535,10,53,51
 
 [footer1a]
-Coordinates=181,322,62,36
+Coordinates=181,322,54,33
 
 [Button1]
-Coordinates=667,10,59,58
+Coordinates=667,10,53,51
 
 [footer1b]
-Coordinates=109,322,62,36
+Coordinates=109,322,55,33
 Visible=True
 
 [ListBoxItem6]
-Coordinates=10,322,89,36
+Coordinates=10,322,79,33
 
 [ListBoxItem2]
-Coordinates=655,276,89,36
+Coordinates=655,276,79,33
 
 [ListBoxItem3]
-Coordinates=394,276,89,36
+Coordinates=394,276,79,33
 
 [ListBoxItem5]
-Coordinates=295,276,89,36
+Coordinates=295,276,79,33
 
 [ListBoxItem4]
-Coordinates=196,276,89,36
+Coordinates=196,276,79,33
 
 [ListBoxItem1]
-Coordinates=97,276,89,36
+Coordinates=97,276,79,33
 
 [SpeedButton1]
-Coordinates=429,10,96,58
+Coordinates=429,10,84,51
 
 [MultiView1]
-Coordinates=10,276,77,36
+Coordinates=10,276,67,33
 
 [ListBox1]
-Coordinates=10,10,139,256
+Coordinates=10,10,116,213
 Visible=True
 
 [Label1]
-Coordinates=604,10,53,58
+Coordinates=604,10,46,51
 
 []
 Coordinates=794,1817,52,51
 Visible=True
 
 [BindingsList1]
-Coordinates=168,197,91,36
+Coordinates=168,197,82,33
 Visible=True
 
 [ListView1]
-Coordinates=220,0,107,300
+Coordinates=220,0,89,249
 Visible=True
 
 [Label4]
-Coordinates=365,1,53,58
+Coordinates=365,1,46,51
 
 [Label3]
-Coordinates=365,377,53,58
+Coordinates=365,377,46,51
 
 [headRoute]
-Coordinates=563,87,77,36
+Coordinates=563,87,67,33
 
 [Label2]
-Coordinates=160,10,53,58
+Coordinates=160,10,46,51
 
 [tabRoutePlan]
-Coordinates=20,242,92,36
+Coordinates=20,242,80,33
 
 [ChangeTabAction5]
-Coordinates=551,139,124,36
+Coordinates=551,139,108,33
 
 [Label10]
-Coordinates=660,160,60,58
+Coordinates=660,160,52,51
 
 [tabRouteList]
-Coordinates=533,191,87,36
+Coordinates=533,191,77,33
 
 [Button3]
-Coordinates=145,141,59,58
+Coordinates=145,141,53,51
 
 [Label7]
-Coordinates=46,70,53,58
+Coordinates=46,70,46,51
 
 [tabRoutePlanInfo]
-Coordinates=551,243,114,36
+Coordinates=551,243,99,33
 
 [tabRouteSetup]
-Coordinates=551,295,100,36
+Coordinates=551,295,87,33
 
 [Label5]
-Coordinates=156,1,53,58
+Coordinates=156,1,46,51
 
 [tabRoute]
-Coordinates=412,328,67,36
+Coordinates=412,328,58,33
 
 [Button5]
-Coordinates=156,71,59,58
+Coordinates=156,71,53,51
 
 [Label6]
-Coordinates=510,110,53,58
+Coordinates=510,110,46,51
 
 [Button6]
-Coordinates=346,436,59,58
+Coordinates=346,436,53,51
 
 [ChangeTabAction4]
-Coordinates=551,347,124,36
+Coordinates=551,347,108,33
 
 [ChangeTabAction3]
-Coordinates=551,399,124,36
+Coordinates=551,399,108,33
 
 [Panel3]
-Coordinates=412,380,55,36
+Coordinates=412,380,47,33
 
 [GridPanelLayout1]
-Coordinates=532,436,118,36
+Coordinates=532,436,102,33
 
 [Panel4]
-Coordinates=412,432,55,36
+Coordinates=412,432,47,33
 
 [Label8]
-Coordinates=590,130,53,58
+Coordinates=590,130,46,51
 
 [ChangeTabAction2]
-Coordinates=237,436,124,36
+Coordinates=237,436,108,33
 
 [Label9]
-Coordinates=109,242,53,58
+Coordinates=109,242,46,51
 
 [ActionList1]
-Coordinates=158,436,78,36
+Coordinates=158,436,70,33
 
 [ChangeTabAction6]
-Coordinates=49,436,124,36
+Coordinates=49,436,108,33
 
 [ChangeTabAction1]
-Coordinates=772,1,124,36
+Coordinates=772,1,108,33
 
 [Button4]
-Coordinates=65,1,59,58
+Coordinates=65,1,53,51
 
 [routelistsource]
-Coordinates=370,70,99,262
+Coordinates=370,70,88,231
 
 [routesetup]
-Coordinates=496,488,75,190
+Coordinates=496,488,67,159
 Visible=True
 
 [Label11]
-Coordinates=650,510,60,58
+Coordinates=650,510,52,51
 
 [Label12]
-Coordinates=288,525,60,58
+Coordinates=288,525,52,51
 
 [Label13]
-Coordinates=229,525,60,58
+Coordinates=229,525,52,51
 
 [ListView2]
-Coordinates=347,506,107,300
+Coordinates=347,506,89,249
 
 [Panel5]
-Coordinates=316,393,55,36
+Coordinates=316,393,47,33
 
 [Panel7]
-Coordinates=267,393,55,36
+Coordinates=267,393,47,33
 
 [Panel6]
-Coordinates=218,393,55,36
+Coordinates=218,393,47,33
 
 [Label15]
-Coordinates=0,474,60,58
+Coordinates=0,474,52,51
 
 [Label14]
-Coordinates=437,525,60,58
+Coordinates=437,525,52,51
 
 [ListView3]
-Coordinates=130,507,107,234
+Coordinates=130,507,89,195
 Visible=True
 
 [routeplan]
-Coordinates=61,525,68,152
+Coordinates=61,525,61,141
 
 [Panel8]
-Coordinates=169,393,55,36
+Coordinates=169,393,47,33
 
 [ListView4]
-Coordinates=551,736,107,212
+Coordinates=551,736,89,177
 Visible=True
 
 [Label16]
-Coordinates=197,793,60,58
+Coordinates=197,793,52,51
 
 [Label18]
-Coordinates=551,666,60,58
+Coordinates=551,666,52,51
 
 [Label20]
-Coordinates=256,793,60,58
+Coordinates=256,793,52,51
 
 [Label17]
-Coordinates=374,793,60,58
+Coordinates=374,793,52,51
 
 [routeinfo]
-Coordinates=315,793,65,102
+Coordinates=315,793,58,87
 
 [GridPanelLayout2]
-Coordinates=60,399,118,36
+Coordinates=60,399,102,33
 
 [Label21]
-Coordinates=433,793,60,58
+Coordinates=433,793,52,51
 
 [Label19]
-Coordinates=492,793,60,58
+Coordinates=492,793,52,51
 
 [Label22]
-Coordinates=287,464,60,58
+Coordinates=287,464,52,51
 
 [tabpaf]
-Coordinates=563,350,50,36
+Coordinates=563,350,45,33
 
 [Panel9]
-Coordinates=507,350,55,36
+Coordinates=507,350,47,33
 
 [Label23]
-Coordinates=703,331,60,58
+Coordinates=703,331,52,51
 
 [Panel10]
-Coordinates=61,473,62,36
+Coordinates=61,473,53,33
 
 [Label24]
-Coordinates=703,408,60,58
+Coordinates=703,408,52,51
 
 [tabpaflist]
-Coordinates=703,87,67,36
+Coordinates=703,87,60,33
 
 [paflist]
-Coordinates=138,740,61,408
+Coordinates=138,740,51,357
 Visible=True
 
 [Label25]
-Coordinates=20,793,60,58
+Coordinates=20,793,52,51
 
 [Label26]
-Coordinates=697,650,60,58
+Coordinates=697,650,52,51
 
 [Label27]
-Coordinates=697,580,60,58
+Coordinates=697,580,52,51
 
 [Button7]
-Coordinates=697,720,59,58
+Coordinates=697,720,53,51
 
 [Label28]
-Coordinates=79,793,60,58
+Coordinates=79,793,52,51
 
 [ListView5]
-Coordinates=220,880,107,278
+Coordinates=220,880,89,231
 Visible=True
 
 [Panel11]
-Coordinates=0,360,62,36
+Coordinates=0,360,53,33
 
 [tabpafdetail]
-Coordinates=703,237,82,36
+Coordinates=703,237,72,33
 
 [Panel13]
-Coordinates=437,470,62,36
+Coordinates=437,470,53,33
 
 [Panel14]
-Coordinates=228,470,62,36
+Coordinates=228,470,53,33
 
 [Image1]
-Coordinates=50,990,57,58
+Coordinates=50,990,49,51
 Visible=True
 
 [Label29]
-Coordinates=697,1020,60,58
+Coordinates=697,1020,52,51
 
 [ChangeTabAction7]
-Coordinates=772,53,124,36
+Coordinates=772,53,108,33
 
 [Panel12]
-Coordinates=169,470,62,36
+Coordinates=169,470,53,33
 
 [GridPanelLayout3]
-Coordinates=918,1,118,36
+Coordinates=918,1,102,33
 
 [pafdetail]
-Coordinates=580,910,64,168
+Coordinates=580,910,56,141
 
 [Panel15]
-Coordinates=638,685,62,36
+Coordinates=638,685,53,33
 
 [ListView6]
-Coordinates=697,790,107,278
+Coordinates=697,790,89,231
 Visible=True
 
 [Label30]
-Coordinates=697,950,60,58
+Coordinates=697,950,52,51
 
 [Button8]
-Coordinates=678,1081,59,58
+Coordinates=678,1081,53,51
 
 [ChangeTabAction8]
-Coordinates=488,399,124,36
+Coordinates=488,399,108,33
 
 [tabOrders]
-Coordinates=934,441,72,36
+Coordinates=934,441,63,33
 
 [Label32]
-Coordinates=934,210,60,58
+Coordinates=934,210,52,51
 
 [order]
-Coordinates=571,1196,97,284
+Coordinates=571,1196,81,249
 
 [Label36]
-Coordinates=713,485,60,58
+Coordinates=713,485,52,51
 
 [Label33]
-Coordinates=934,287,60,58
+Coordinates=934,287,52,51
 
 [Panel16]
-Coordinates=934,496,62,36
+Coordinates=934,496,53,33
 
 [Panel17]
-Coordinates=934,551,62,36
+Coordinates=934,551,53,33
 
 [Panel18]
-Coordinates=934,606,62,36
+Coordinates=934,606,53,33
 
 [Label31]
-Coordinates=934,133,60,58
+Coordinates=934,133,52,51
 
 [Label34]
-Coordinates=934,364,60,58
+Coordinates=934,364,52,51
 
 [ListView7]
-Coordinates=650,1158,107,278
+Coordinates=650,1158,89,231
 Visible=True
 
 [Label35]
-Coordinates=934,56,60,58
+Coordinates=934,56,52,51
 
 [taborderlines]
-Coordinates=934,661,89,36
+Coordinates=934,661,79,33
 
 [tabsalesorder]
-Coordinates=782,108,93,36
+Coordinates=782,108,81,33
 
 [Label44]
-Coordinates=824,1000,60,58
+Coordinates=824,1000,52,51
 
 [Panel21]
-Coordinates=492,685,62,36
+Coordinates=492,685,53,33
 
 [Panel20]
-Coordinates=288,685,62,36
+Coordinates=288,685,53,33
 
 [ChangeTabAction10]
-Coordinates=920,713,131,36
+Coordinates=920,713,113,33
 
 [Label55]
-Coordinates=824,510,60,58
+Coordinates=824,510,52,51
 
 [GridPanelLayout4]
-Coordinates=918,765,118,36
+Coordinates=918,765,102,33
 
 [Label46]
-Coordinates=824,300,60,58
+Coordinates=824,300,52,51
 
 [Label52]
-Coordinates=43,1081,60,58
+Coordinates=43,1081,52,51
 
 [Label54]
-Coordinates=824,230,60,58
+Coordinates=824,230,52,51
 
 [Label42]
-Coordinates=824,720,60,58
+Coordinates=824,720,52,51
 
 [Label37]
-Coordinates=383,1081,60,58
+Coordinates=383,1081,52,51
 
 [Label49]
-Coordinates=824,370,60,58
+Coordinates=824,370,52,51
 
 [Label45]
-Coordinates=161,1081,60,58
+Coordinates=161,1081,52,51
 
 [Button10]
-Coordinates=824,440,66,58
+Coordinates=824,440,58,51
 
 [Label53]
-Coordinates=824,930,60,58
+Coordinates=824,930,52,51
 
 [Label48]
-Coordinates=102,1081,60,58
+Coordinates=102,1081,52,51
 
 [Label40]
-Coordinates=824,860,60,58
+Coordinates=824,860,52,51
 
 [orderline]
-Coordinates=350,1160,65,190
+Coordinates=350,1160,58,159
 
 [Panel19]
-Coordinates=229,685,62,36
+Coordinates=229,685,53,33
 
 [Label50]
-Coordinates=824,790,60,58
+Coordinates=824,790,52,51
 Visible=True
 
 [ChangeTabAction9]
-Coordinates=1071,1,124,36
+Coordinates=1071,1,108,33
 
 [Label38]
-Coordinates=560,1081,60,58
+Coordinates=560,1081,52,51
 
 [Label51]
-Coordinates=619,1081,60,58
+Coordinates=619,1081,52,51
 
 [Label47]
-Coordinates=324,1081,60,58
+Coordinates=324,1081,52,51
 
 [Label43]
-Coordinates=442,1081,60,58
+Coordinates=442,1081,52,51
 
 [Label56]
-Coordinates=824,650,60,58
+Coordinates=824,650,52,51
 
 [Button9]
-Coordinates=501,1081,59,58
+Coordinates=501,1081,53,51
 
 [Label41]
-Coordinates=824,160,60,58
+Coordinates=824,160,52,51
 
 [Panel22]
-Coordinates=71,685,62,36
+Coordinates=71,685,53,33
 
 [Label39]
-Coordinates=824,580,60,58
+Coordinates=824,580,52,51
 
 [ListView8]
-Coordinates=472,1149,107,300
+Coordinates=472,1149,89,249
 Visible=True
 
 [Label57]
-Coordinates=413,1170,60,58
+Coordinates=413,1170,52,51
 
 [tabcustinfo]
-Coordinates=920,817,77,36
+Coordinates=920,817,69,33
 
 [Label60]
-Coordinates=765,1170,60,58
+Coordinates=765,1170,52,51
 
 [Label59]
-Coordinates=824,1140,60,58
+Coordinates=824,1140,52,51
 
 [tabCustomer]
-Coordinates=571,503,88,36
+Coordinates=571,503,77,33
 
 [customer]
-Coordinates=60,1200,67,292
+Coordinates=60,1200,60,249
 
 [Label58]
-Coordinates=824,1070,60,58
+Coordinates=824,1070,52,51
 
 [Panel24]
-Coordinates=920,869,62,36
+Coordinates=920,869,53,33
 
 [tabsearchcust]
-Coordinates=1071,53,95,36
+Coordinates=1071,53,84,33
 
 [Button11]
-Coordinates=192,1170,66,58
+Coordinates=192,1170,58,51
 
 [ListView9]
-Coordinates=251,1149,107,300
+Coordinates=251,1149,89,249
 Visible=True
 
 [Panel25]
-Coordinates=920,921,62,36
+Coordinates=920,921,53,33
 
 [Label61]
-Coordinates=133,1170,60,58
+Coordinates=133,1170,52,51
 
 [Panel23]
-Coordinates=920,973,62,36
+Coordinates=920,973,53,33
 
 [Label67]
-Coordinates=934,1105,60,58
+Coordinates=934,1105,52,51
 
 [Panel27]
-Coordinates=0,1160,62,36
+Coordinates=0,1160,53,33
 
 [Label72]
-Coordinates=1089,185,60,58
+Coordinates=1089,185,52,51
 
 [Button12]
-Coordinates=934,1182,66,58
+Coordinates=934,1182,58,51
 
 [Panel28]
-Coordinates=1089,878,62,36
+Coordinates=1089,878,53,33
 
 [Label64]
-Coordinates=1089,339,60,58
+Coordinates=1089,339,52,51
 
 [Label73]
-Coordinates=1089,724,60,58
+Coordinates=1089,724,52,51
 
 [Label71]
-Coordinates=1089,801,60,58
+Coordinates=1089,801,52,51
 
 [Label65]
-Coordinates=1089,493,60,58
+Coordinates=1089,493,52,51
 
 [Label68]
-Coordinates=1089,416,60,58
+Coordinates=1089,416,52,51
 
 [Panel26]
-Coordinates=1089,933,62,36
+Coordinates=1089,933,53,33
 
 [ChangeTabAction11]
-Coordinates=1089,988,131,36
+Coordinates=1089,988,113,33
 
 [Label62]
-Coordinates=1089,570,60,58
+Coordinates=1089,570,52,51
 
 [GridPanelLayout5]
-Coordinates=1089,1043,118,36
+Coordinates=1089,1043,102,33
 
 [Label66]
-Coordinates=934,1028,60,58
+Coordinates=934,1028,52,51
 
 [Label69]
-Coordinates=1089,262,60,58
+Coordinates=1089,262,52,51
 
 [ListView10]
-Coordinates=934,1259,107,278
+Coordinates=934,1259,89,231
 Visible=True
 
 [Label70]
-Coordinates=1089,108,60,58
+Coordinates=1089,108,52,51
 
 [Label63]
-Coordinates=1089,647,60,58
+Coordinates=1089,647,52,51
 Visible=True
 
 [ChangeTabAction12]
-Coordinates=1089,1098,131,36
+Coordinates=1089,1098,113,33
 
 [Button13]
-Coordinates=277,396,66,58
+Coordinates=277,396,58,51
 
 [custinfo]
-Coordinates=800,1380,77,168
+Coordinates=800,1380,64,141
 
 [Label74]
-Coordinates=1089,1307,60,58
+Coordinates=1089,1307,52,51
 
 [Label77]
-Coordinates=1089,1153,60,58
+Coordinates=1089,1153,52,51
 
 [Label76]
-Coordinates=1089,1230,60,58
+Coordinates=1089,1230,52,51
 
 [Label78]
-Coordinates=1089,1461,60,58
+Coordinates=1089,1461,52,51
 
 [Panel29]
-Coordinates=1070,1530,62,36
+Coordinates=1070,1530,53,33
 
 [Label75]
-Coordinates=1089,1384,60,58
+Coordinates=1089,1384,52,51
 
 [Panel32]
-Coordinates=1258,155,62,36
+Coordinates=1258,155,53,33
 
 [Chart3]
-Coordinates=1089,1662,53,58
+Coordinates=1089,1662,46,51
 
 [BarSeries1]
-Coordinates=1258,210,78,36
+Coordinates=1258,210,68,33
 
 [tabRetailDetail]
-Coordinates=1258,265,99,36
+Coordinates=1258,265,85,33
 
 [Label81]
-Coordinates=579,1530,60,58
+Coordinates=579,1530,52,51
 
 [Label80]
-Coordinates=1258,78,60,58
+Coordinates=1258,78,52,51
 
 [Panel30]
-Coordinates=1258,320,62,36
+Coordinates=1258,320,53,33
 
 [dashboard]
-Coordinates=1258,375,75,36
+Coordinates=1258,375,66,33
 
 [tabRetailer]
-Coordinates=1258,430,77,36
+Coordinates=1258,430,67,33
 
 [Panel33]
-Coordinates=1258,485,62,36
+Coordinates=1258,485,53,33
 
 [Panel31]
-Coordinates=1258,540,62,36
+Coordinates=1258,540,53,33
 
 [Label79]
-Coordinates=332,1530,60,58
+Coordinates=332,1530,52,51
 
 [Label86]
-Coordinates=125,1530,60,58
+Coordinates=125,1530,52,51
 
 [Label83]
-Coordinates=194,1530,60,58
+Coordinates=194,1530,52,51
 
 [Series1]
-Coordinates=1089,1739,58,36
+Coordinates=1089,1739,50,33
 
 [tabService]
-Coordinates=1258,595,75,36
+Coordinates=1258,595,66,33
 
 [BarSeries2]
-Coordinates=1258,650,78,36
+Coordinates=1258,650,68,33
 
 [sales]
-Coordinates=717,1455,68,292
+Coordinates=717,1455,57,249
 
 [Label82]
-Coordinates=648,1530,60,58
+Coordinates=648,1530,52,51
 
 [Button15]
-Coordinates=510,1530,66,58
+Coordinates=510,1530,58,51
 
 [Series2]
-Coordinates=1089,1794,58,36
+Coordinates=1089,1794,50,33
 
 [ChangeTabAction13]
-Coordinates=1258,705,131,36
+Coordinates=1258,705,113,33
 
 [BarSeries4]
-Coordinates=1258,760,78,36
+Coordinates=1258,760,68,33
 
 [Label85]
-Coordinates=56,1530,60,58
+Coordinates=56,1530,52,51
 
 [tabDashboard]
-Coordinates=1258,815,95,36
+Coordinates=1258,815,83,33
 
 [Chart1]
-Coordinates=0,1472,53,58
+Coordinates=0,1472,46,51
 
 [Button14]
-Coordinates=263,1530,66,58
+Coordinates=263,1530,58,51
 
 [tabDash1]
-Coordinates=1258,870,69,36
+Coordinates=1258,870,60,33
 
 [Label84]
-Coordinates=1258,1,60,58
+Coordinates=1258,1,52,51
 
 [ListView11]
-Coordinates=401,1530,107,300
+Coordinates=401,1530,89,249
 Visible=True
 
 [BarSeries3]
-Coordinates=1258,925,78,36
+Coordinates=1258,925,68,33
 
 [Chart2]
-Coordinates=1089,1585,53,58
+Coordinates=1089,1585,46,51
 
 [Panel34]
-Coordinates=1258,980,62,36
+Coordinates=1258,980,53,33
 
 [Label91]
-Coordinates=440,1817,60,58
+Coordinates=440,1817,52,51
 
 [Label89]
-Coordinates=381,1817,60,58
+Coordinates=381,1817,52,51
 
 [Panel38]
-Coordinates=765,1081,62,36
+Coordinates=765,1081,53,33
 
 [Panel39]
-Coordinates=1030,1487,62,36
+Coordinates=1030,1487,53,33
 
 [GridPanelLayout7]
-Coordinates=825,1194,118,36
+Coordinates=825,1194,102,33
 
 [Label95]
-Coordinates=617,1817,60,58
+Coordinates=617,1817,52,51
 
 [GridPanelLayout6]
-Coordinates=1409,1,118,36
+Coordinates=1409,1,102,33
 
 [Label90]
-Coordinates=1240,1522,60,58
+Coordinates=1240,1522,52,51
 
 [Label108]
-Coordinates=1240,1312,67,58
+Coordinates=1240,1312,58,51
 
 [Button19]
-Coordinates=86,1817,66,58
+Coordinates=86,1817,58,51
 
 [Panel37]
-Coordinates=658,1487,62,36
+Coordinates=658,1487,53,33
 
 [GridPanelLayout9]
-Coordinates=1409,53,118,36
+Coordinates=1409,53,102,33
 
 [Button20]
-Coordinates=853,1817,66,58
+Coordinates=853,1817,58,51
 
 [Button17]
-Coordinates=1240,1032,66,58
+Coordinates=1240,1032,58,51
 
 [Label103]
-Coordinates=1240,1732,67,58
+Coordinates=1240,1732,58,51
 
 [GridPanelLayout8]
-Coordinates=1409,105,118,36
+Coordinates=1409,105,102,33
 
 [Label110]
-Coordinates=204,1817,67,58
+Coordinates=204,1817,58,51
 
 [Label94]
-Coordinates=735,1817,60,58
+Coordinates=735,1817,52,51
 
 [Button16]
-Coordinates=1240,1102,66,58
+Coordinates=1240,1102,58,51
 
 [Label92]
-Coordinates=1240,1242,60,58
+Coordinates=1240,1242,52,51
 
 [Button18]
-Coordinates=1030,1817,66,58
+Coordinates=1030,1817,58,51
 
 [Label93]
-Coordinates=263,1817,60,58
+Coordinates=263,1817,52,51
 
 [Label88]
-Coordinates=27,1817,60,58
+Coordinates=27,1817,52,51
 
 [Panel35]
-Coordinates=599,1487,62,36
+Coordinates=599,1487,53,33
 
 [ChangeTabAction14]
-Coordinates=1409,157,131,36
+Coordinates=1409,157,113,33
 
 [Label87]
-Coordinates=1240,1662,60,58
+Coordinates=1240,1662,52,51
 Visible=True
 
 [Button23]
-Coordinates=676,1817,66,58
+Coordinates=676,1817,58,51
 
 [Label105]
-Coordinates=558,1817,67,58
+Coordinates=558,1817,58,51
 
 [Button22]
-Coordinates=145,1817,66,58
+Coordinates=145,1817,58,51
 
 [Panel36]
-Coordinates=540,1487,62,36
+Coordinates=540,1487,53,33
 
 [Button21]
-Coordinates=499,1817,66,58
+Coordinates=499,1817,58,51
 
 [CheckBox8]
-Coordinates=1258,1599,80,58
+Coordinates=1258,1599,70,51
 
 [Label102]
-Coordinates=1427,674,67,58
+Coordinates=1427,674,58,51
 
 [CheckBox9]
-Coordinates=1427,597,80,58
+Coordinates=1427,597,70,51
 
 [Label101]
-Coordinates=1427,751,67,58
+Coordinates=1427,751,58,51
 
 [Label111]
-Coordinates=1427,443,67,58
+Coordinates=1427,443,58,51
 
 [CheckBox1]
-Coordinates=1427,289,80,58
+Coordinates=1427,289,70,51
 
 [Label96]
-Coordinates=1427,1521,60,58
+Coordinates=1427,1521,52,51
 
 [CheckBox10]
-Coordinates=941,1868,87,58
+Coordinates=941,1868,76,51
 
 [CheckBox4]
-Coordinates=1427,982,80,58
+Coordinates=1427,982,70,51
 
 [Label107]
-Coordinates=1258,1809,67,58
+Coordinates=1258,1809,58,51
 
 [Label97]
-Coordinates=1427,212,60,58
+Coordinates=1427,212,52,51
 Visible=True
 
 [CheckBox7]
-Coordinates=1427,1213,80,58
+Coordinates=1427,1213,70,51
 
 [Label113]
-Coordinates=1427,1290,67,58
+Coordinates=1427,1290,58,51
 
 [CheckBox11]
-Coordinates=1239,1868,87,58
+Coordinates=1239,1868,76,51
 
 [Label114]
-Coordinates=1170,1868,67,58
+Coordinates=1170,1868,58,51
 
 [Label100]
-Coordinates=1258,1179,67,58
+Coordinates=1258,1179,58,51
 
 [CheckBox6]
-Coordinates=1427,520,80,58
+Coordinates=1427,520,70,51
 
 [CheckBox3]
-Coordinates=1258,1389,80,58
+Coordinates=1258,1389,70,51
 
 [Label99]
-Coordinates=1427,1136,60,58
+Coordinates=1427,1136,52,51
 
 [CheckBox5]
-Coordinates=1427,1367,80,58
+Coordinates=1427,1367,70,51
 
 [Label109]
-Coordinates=1101,1868,67,58
+Coordinates=1101,1868,58,51
 
 [Label98]
-Coordinates=1427,905,60,58
+Coordinates=1427,905,52,51
 
 [Label112]
-Coordinates=1427,1444,67,58
+Coordinates=1427,1444,58,51
 
 [CheckBox2]
-Coordinates=1427,366,80,58
+Coordinates=1427,366,70,51
 
 [Label104]
-Coordinates=1427,1059,67,58
+Coordinates=1427,1059,58,51
 
 [Label106]
-Coordinates=1427,828,67,58
+Coordinates=1427,828,58,51
+
+[Label116]
+Coordinates=55,78,58,51
+
+[Label124]
+Coordinates=713,657,58,51
+
+[Label119]
+Coordinates=713,164,58,51
+
+[Edit18]
+Coordinates=842,1007,45,51
+
+[Edit6]
+Coordinates=650,587,40,51
+
+[Edit16]
+Coordinates=1140,1964,45,51
+
+[Edit2]
+Coordinates=323,155,40,51
+
+[Edit14]
+Coordinates=713,485,45,51
+
+[Edit9]
+Coordinates=50,396,40,51
+
+[Edit10]
+Coordinates=99,396,45,51
+
+[Edit8]
+Coordinates=238,510,40,51
+
+[Panel40]
+Coordinates=1258,1466,53,33
+
+[Edit13]
+Coordinates=1199,1964,45,51
+
+[Edit20]
+Coordinates=162,155,45,51
+
+[Label120]
+Coordinates=934,210,58,51
+
+[Edit17]
+Coordinates=713,87,45,51
+
+[Edit5]
+Coordinates=885,1530,40,51
+
+[Label117]
+Coordinates=1427,1752,58,51
+
+[Button24]
+Coordinates=1427,1675,58,51
+
+[Edit11]
+Coordinates=0,0,45,51
+
+[Edit19]
+Coordinates=1081,1964,45,51
+
+[Label115]
+Coordinates=934,768,58,51
+
+[Edit4]
+Coordinates=323,78,40,51
+
+[Edit15]
+Coordinates=842,307,45,51
+
+[Edit7]
+Coordinates=650,402,40,51
+
+[Label123]
+Coordinates=143,1,58,51
+
+[Edit12]
+Coordinates=1258,1945,45,51
+
+[Label122]
+Coordinates=1427,1598,58,51
+
+[Edit3]
+Coordinates=650,87,40,51
+
+[Edit21]
+Coordinates=842,587,45,51
+
+[Label118]
+Coordinates=323,1,58,51
+
+[Label121]
+Coordinates=124,78,58,51
+
+[tabPropose]
+Coordinates=1427,1829,70,33
+
+[Edit1]
+Coordinates=113,174,40,51
+
+[propose]
+Coordinates=1120,2010,54,375
+
+[Label126]
+Coordinates=92,2041,58,51
+
+[Label127]
+Coordinates=665,1894,58,51
+
+[Button35]
+Coordinates=1121,2041,58,51
+
+[GridPanelLayout10]
+Coordinates=842,1990,108,33
+
+[calculator]
+Coordinates=1348,1990,62,33
+
+[Button41]
+Coordinates=872,1894,58,51
+
+[Button32]
+Coordinates=1578,309,58,51
+
+[Button33]
+Coordinates=734,1894,58,51
+
+[SpeedButton2]
+Coordinates=872,2041,84,51
+
+[Label134]
+Coordinates=192,1894,58,51
+
+[SpeedButton6]
+Coordinates=93,1894,84,51
+
+[Label131]
+Coordinates=1427,1961,58,51
+
+[SpeedButton7]
+Coordinates=161,2041,84,51
+
+[prodImage]
+Coordinates=763,1990,66,33
+
+[Button40]
+Coordinates=260,2041,58,51
+
+[Button28]
+Coordinates=803,1894,58,51
+
+[Label132]
+Coordinates=398,2041,58,51
+
+[Button30]
+Coordinates=596,1894,58,51
+
+[Label129]
+Coordinates=527,1894,58,51
+
+[Button29]
+Coordinates=1190,2041,58,51
+
+[Label136]
+Coordinates=1578,1,58,51
+
+[Button39]
+Coordinates=803,2041,58,51
+
+[Button36]
+Coordinates=320,1894,58,51
+
+[Image4]
+Coordinates=1427,2115,49,51
+
+[SpeedButton3]
+Coordinates=536,2041,84,51
+
+[ListView12]
+Coordinates=971,1964,89,267
+Visible=True
+
+[Label125]
+Coordinates=389,1894,58,51
+
+[Image3]
+Coordinates=1427,2192,49,51
+
+[Panel41]
+Coordinates=694,1990,53,33
+
+[Label128]
+Coordinates=1427,2038,58,51
+
+[Label137]
+Coordinates=23,2041,58,51
+
+[Label135]
+Coordinates=467,2041,58,51
+
+[SpeedButton4]
+Coordinates=635,2041,84,51
+
+[aerosol]
+Coordinates=635,1990,50,33
+
+[SpeedButton5]
+Coordinates=1328,2041,84,51
+
+[Button26]
+Coordinates=1578,78,58,51
+
+[Button31]
+Coordinates=329,2041,58,51
+
+[coil]
+Coordinates=586,1990,40,33
+
+[TabImage]
+Coordinates=507,1990,62,33
+
+[Button42]
+Coordinates=1578,232,58,51
+
+[Button37]
+Coordinates=1427,1884,58,51
+
+[Image2]
+Coordinates=261,1894,49,51
+
+[Button34]
+Coordinates=24,1894,58,51
+
+[Button27]
+Coordinates=734,2041,58,51
+
+[Panel42]
+Coordinates=438,1990,53,33
+
+[Button25]
+Coordinates=1032,1894,58,51
+
+[bait]
+Coordinates=389,1990,40,33
+
+[Label133]
+Coordinates=1578,155,58,51
+
+[ToolBar1]
+Coordinates=320,1990,58,33
+
+[Button38]
+Coordinates=458,1894,58,51
+
+[Label130]
+Coordinates=1259,2041,58,51
+
+[Label149]
+Coordinates=74,1135,58,51
+
+[Label144]
+Coordinates=224,1742,58,51
+
+[Label150]
+Coordinates=965,1579,58,51
+
+[Edit34]
+Coordinates=965,1509,45,51
+
+[Edit24]
+Coordinates=824,1246,45,51
+
+[Edit26]
+Coordinates=798,1742,45,51
+
+[Edit28]
+Coordinates=641,1742,45,51
+
+[Edit29]
+Coordinates=690,1742,45,51
+
+[Button43]
+Coordinates=342,1742,58,51
+
+[Label141]
+Coordinates=432,1436,58,51
+
+[Label138]
+Coordinates=965,1719,58,51
+
+[Edit25]
+Coordinates=116,1742,45,51
+
+[Label147]
+Coordinates=739,1742,58,51
+
+[tabProposeList]
+Coordinates=990,1135,89,33
+
+[Edit35]
+Coordinates=824,1316,45,51
+
+[Label139]
+Coordinates=847,1742,58,51
+
+[Panel45]
+Coordinates=765,1135,53,33
+
+[Edit27]
+Coordinates=533,1742,45,51
+
+[Edit33]
+Coordinates=601,1135,45,51
+
+[Label142]
+Coordinates=582,1742,58,51
+
+[Label148]
+Coordinates=324,1436,58,51
+
+[ListView13]
+Coordinates=1250,2000,89,339
+Visible=True
+
+[Panel44]
+Coordinates=413,1135,53,33
+
+[Edit32]
+Coordinates=491,1436,45,51
+
+[Panel43]
+Coordinates=192,1135,53,33
+
+[Edit23]
+Coordinates=167,1436,45,51
+
+[Label146]
+Coordinates=216,1436,58,51
+
+[Edit22]
+Coordinates=383,1436,45,51
+
+[Edit31]
+Coordinates=965,1649,45,51
+
+[Label145]
+Coordinates=283,1742,58,51
+
+[Edit30]
+Coordinates=275,1436,45,51
+
+[Label140]
+Coordinates=165,1742,58,51
+
+[Label143]
+Coordinates=906,1742,58,51
 

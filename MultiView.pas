@@ -3,7 +3,7 @@ unit MultiView;
 interface
 
 uses
-  System.SysUtils, System.Types, System.UITypes, System.Classes, System.Variants,
+  System.SysUtils, System.IOUtils, System.Types, System.UITypes, System.Classes, System.Variants,
   FMX.Types, FMX.Controls, FMX.Forms, FMX.Graphics, FMX.Dialogs, FMX.StdCtrls,
   FMX.MultiView, FMX.Controls.Presentation, FMX.ListBox, FMX.Layouts,FMX.Objects,
   Data.Bind.GenData, FMX.ListView.Types, FMX.ListView.Appearances,
@@ -11,7 +11,8 @@ uses
   Fmx.Bind.Editors, Data.Bind.EngExt, Fmx.Bind.DBEngExt, Data.Bind.Components,
   FMX.ListView, Data.Bind.ObjectScope, System.Actions, FMX.ActnList,
   FMX.Platform,FMX.VirtualKeyboard,FMX.Helpers.Android, Fmx.Bind.GenData,
-  FMXTee.Engine, FMXTee.Series, FMXTee.Procs, FMXTee.Chart, FMX.TabControl;
+  FMXTee.Engine, FMXTee.Series, FMXTee.Procs, FMXTee.Chart, FMX.TabControl,
+  FMX.Edit, FMX.Grid.Style, FMX.Grid, FMX.ScrollBox;
 
 type
   TForm1 = class(TForm)
@@ -339,6 +340,126 @@ type
     LinkPropertyToFieldText32: TLinkPropertyToField;
     LinkPropertyToFieldText33: TLinkPropertyToField;
     Label115: TLabel;
+    Label116: TLabel;
+    Edit1: TEdit;
+    Edit2: TEdit;
+    Edit3: TEdit;
+    Edit4: TEdit;
+    Label117: TLabel;
+    Label118: TLabel;
+    Edit5: TEdit;
+    Edit6: TEdit;
+    Edit7: TEdit;
+    Edit8: TEdit;
+    Label119: TLabel;
+    Edit9: TEdit;
+    Edit10: TEdit;
+    Label120: TLabel;
+    Edit11: TEdit;
+    Edit12: TEdit;
+    Label121: TLabel;
+    Edit13: TEdit;
+    Edit14: TEdit;
+    Label122: TLabel;
+    Edit15: TEdit;
+    Label123: TLabel;
+    Edit16: TEdit;
+    Edit17: TEdit;
+    Edit18: TEdit;
+    Edit19: TEdit;
+    Label124: TLabel;
+    Edit20: TEdit;
+    Edit21: TEdit;
+    tabPropose: TTabItem;
+    Panel40: TPanel;
+    Button24: TButton;
+    Panel41: TPanel;
+    Label125: TLabel;
+    ListView12: TListView;
+    Panel42: TPanel;
+    Label126: TLabel;
+    Label127: TLabel;
+    Label128: TLabel;
+    Label129: TLabel;
+    Label130: TLabel;
+    Label131: TLabel;
+    Label132: TLabel;
+    Label133: TLabel;
+    Label134: TLabel;
+    ToolBar1: TToolBar;
+    SpeedButton2: TSpeedButton;
+    SpeedButton3: TSpeedButton;
+    SpeedButton4: TSpeedButton;
+    SpeedButton5: TSpeedButton;
+    SpeedButton6: TSpeedButton;
+    prodImage: TPanel;
+    calculator: TPanel;
+    SpeedButton7: TSpeedButton;
+    GridPanelLayout10: TGridPanelLayout;
+    Label135: TLabel;
+    Button25: TButton;
+    Button26: TButton;
+    Button27: TButton;
+    Button28: TButton;
+    Label137: TLabel;
+    Button29: TButton;
+    Button30: TButton;
+    Button31: TButton;
+    Button32: TButton;
+    Button33: TButton;
+    Button34: TButton;
+    Button35: TButton;
+    Button36: TButton;
+    Button37: TButton;
+    Button38: TButton;
+    Button39: TButton;
+    Button40: TButton;
+    Button41: TButton;
+    Label136: TLabel;
+    Button42: TButton;
+    TabImage: TTabControl;
+    aerosol: TTabItem;
+    coil: TTabItem;
+    bait: TTabItem;
+    Image2: TImage;
+    Image3: TImage;
+    Image4: TImage;
+    propose: TPrototypeBindSource;
+    LinkListControlToField12: TLinkListControlToField;
+    Edit22: TEdit;
+    Edit23: TEdit;
+    Edit24: TEdit;
+    Edit25: TEdit;
+    Edit26: TEdit;
+    tabProposeList: TTabItem;
+    Panel43: TPanel;
+    Label138: TLabel;
+    Panel44: TPanel;
+    Label139: TLabel;
+    Label140: TLabel;
+    Label141: TLabel;
+    Label142: TLabel;
+    Label143: TLabel;
+    Label144: TLabel;
+    Label145: TLabel;
+    Label146: TLabel;
+    Label147: TLabel;
+    Label148: TLabel;
+    Label149: TLabel;
+    ListView13: TListView;
+    Panel45: TPanel;
+    Button43: TButton;
+    Label150: TLabel;
+    Edit27: TEdit;
+    Edit28: TEdit;
+    Edit29: TEdit;
+    Edit30: TEdit;
+    Edit31: TEdit;
+    Edit32: TEdit;
+    Edit33: TEdit;
+    Edit34: TEdit;
+    Edit35: TEdit;
+    LinkFillControlToField2: TLinkFillControlToField;
     procedure ListBoxItem1Click(Sender: TObject);
     procedure FormShow(Sender: TObject);
     procedure ListBoxItem2Click(Sender: TObject);
@@ -347,6 +468,21 @@ type
     procedure ListBoxItem5Click(Sender: TObject);
     procedure ListBoxItem6Click(Sender: TObject);
     procedure Button11Click(Sender: TObject);
+    procedure FormKeyUp(Sender: TObject; var Key: Word; var KeyChar: Char;
+      Shift: TShiftState);
+    procedure OnCloseDialog(Sender: TObject; const AResult: TModalResult);
+    procedure Button21Click(Sender: TObject);
+    procedure Button22Click(Sender: TObject);
+    procedure FormResize(Sender: TObject);
+    procedure Button24Click(Sender: TObject);
+    procedure Button20Click(Sender: TObject);
+    procedure SpeedButton7Click(Sender: TObject);
+    procedure SpeedButton4Click(Sender: TObject);
+    procedure SpeedButton5Click(Sender: TObject);
+    procedure SpeedButton6Click(Sender: TObject);
+    procedure Button19Click(Sender: TObject);
+    procedure Button43Click(Sender: TObject);
+    procedure backtonormal;
   private
     { Private declarations }
   public
@@ -358,7 +494,26 @@ var
 
 implementation
 
+uses  Androidapi.JNI.GraphicsContentViewText,
+      Androidapi.Helpers,
+      Androidapi.JNI.JavaTypes,
+      Androidapi.JNI.Net;
+
 {$R *.fmx}
+
+procedure tform1.backtonormal;
+var
+  ScreenService: IFMXScreenService;
+  OrientSet: TScreenOrientations;
+begin
+  if TPlatformServices.Current.SupportsPlatformService(IFMXScreenService, IInterface(ScreenService)) then
+  begin
+      tabservice.ActiveTab:=tabpropose;
+      OrientSet := [TScreenOrientation.soPortrait];
+      ScreenService.SetScreenOrientation(OrientSet);
+  end;
+end;
+
 
 procedure TForm1.Button11Click(Sender: TObject);
 begin
@@ -374,7 +529,154 @@ begin
   end;
 end;
 
+procedure TForm1.Button19Click(Sender: TObject);
+begin
+   tabservice.ActiveTab:=tabpropose;
+end;
+
+procedure TForm1.Button20Click(Sender: TObject);
+var
+   fName       : String;
+   Intent      : JIntent;
+
+begin
+    fName := System.IOUtils.TPath.Combine(System.IOUtils.TPath.GetDocumentsPath, 'roi.pdf');
+//    if fileexists(fname) then
+//      showmessage(fname+' OK') else showmessage(fname+' NOT THERE');
+
+      intent := TJIntent.Create;
+      intent.setAction(TJIntent.JavaClass.ACTION_VIEW);
+      Intent.setDataAndType(StrToJURI('file:///storage/emulated/0/Android/data/com.embarcadero.Client2/files/roi.pdf'),StringToJString('application/pdf'));
+      SharedActivity.startActivity(intent);
+ end;
+
+procedure TForm1.Button21Click(Sender: TObject);
+begin
+   label1.Text:='PAF';
+   tabservice.Visible:=false;
+   tabpaf.Visible:=true;
+end;
+
+procedure TForm1.Button22Click(Sender: TObject);
+begin
+   label1.Text:='Customer and Aging';
+   tabservice.Visible:=false;
+   tabcustomer.Visible:=true;
+end;
+
+procedure TForm1.Button24Click(Sender: TObject);
+var
+  ScreenService: IFMXScreenService;
+  OrientSet: TScreenOrientations;
+begin
+  if TPlatformServices.Current.SupportsPlatformService(IFMXScreenService, IInterface(ScreenService)) then
+  begin
+      tabservice.ActiveTab:=tabproposelist;
+      OrientSet := [TScreenOrientation.soLandscape];
+      ScreenService.SetScreenOrientation(OrientSet);
+  end;
+end;
+
+procedure TForm1.Button43Click(Sender: TObject);
+var
+  ScreenService: IFMXScreenService;
+  OrientSet: TScreenOrientations;
+begin
+  if TPlatformServices.Current.SupportsPlatformService(IFMXScreenService, IInterface(ScreenService)) then
+  begin
+      tabservice.ActiveTab:=tabpropose;
+      OrientSet := [TScreenOrientation.soPortrait];
+      ScreenService.SetScreenOrientation(OrientSet);
+  end;
+end;
+
+procedure TForm1.FormKeyUp(Sender: TObject; var Key: Word; var KeyChar: Char;
+  Shift: TShiftState);
+var
+  FService : IFMXVirtualKeyboardService;
+begin
+  if Key = vkHardwareBack then
+  begin
+    TPlatformServices.Current.SupportsPlatformService(IFMXVirtualKeyboardService, IInterface(FService));
+    if (FService <> nil) and (TVirtualKeyboardState.Visible in FService.VirtualKeyBoardState) then
+    begin
+      // Back button pressed, keyboard visible, so do nothing...
+    end else
+    begin
+      Key := 0;
+      if (tabroute.Visible) and (tabroute.ActiveTab<>tabroutelist) then tabroute.Previous(ttabtransition.None,ttabtransitiondirection.Normal)
+      else if (tabservice.Visible) and (tabservice.ActiveTab=tabproposelist) then backtonormal
+      else if (tabservice.Visible) and (tabservice.ActiveTab<>tabretailer) then tabservice.Previous(ttabtransition.None,ttabtransitiondirection.Normal)
+      else if (tabpaf.Visible) and (tabpaf.ActiveTab<>tabpaflist) then tabpaf.Previous(ttabtransition.None,ttabtransitiondirection.Normal)
+      else if (taborders.Visible) and (taborders.ActiveTab<>tabsalesorder) then taborders.Previous(ttabtransition.None,ttabtransitiondirection.Normal)
+      else if (tabcustomer.Visible) and (tabcustomer.ActiveTab<>tabsearchcust) then tabcustomer.Previous(ttabtransition.None,ttabtransitiondirection.Normal)
+      else
+      // Back button pressed, keyboard not visible or not supported on this platform, lets exit the app...
+      MessageDlg('Exit Application?', TMsgDlgType.mtConfirmation, [TMsgDlgBtn.mbOK, TMsgDlgBtn.mbCancel], -1, OnCloseDialog);
+    end;
+  end;
+end;
+
+procedure TForm1.FormResize(Sender: TObject);
+var
+  ScreenService: IFMXScreenService;
+begin
+  if TPlatformServices.Current.SupportsPlatformService(IFMXScreenService, IInterface(ScreenService)) then
+  begin
+    if ScreenService.GetScreenOrientation in [TScreenOrientation.soPortrait, TScreenOrientation.soInvertedPortrait] then
+    begin
+//      ShowMessage('Portrait Orientation');
+    end
+    else
+     Begin
+//      ShowMessage('Landscape Orientation');
+
+     End;
+
+  end;
+end;
+
+procedure TForm1.OnCloseDialog(Sender: TObject; const AResult: TModalResult);
+begin
+  if AResult = mrOK then
+    Close;
+end;
+
+procedure TForm1.SpeedButton4Click(Sender: TObject);
+begin
+   tabimage.ActiveTab:=aerosol;
+end;
+
+procedure TForm1.SpeedButton5Click(Sender: TObject);
+begin
+   tabimage.ActiveTab:=coil;
+end;
+
+procedure TForm1.SpeedButton6Click(Sender: TObject);
+begin
+   tabimage.ActiveTab:=bait;
+end;
+
+procedure TForm1.SpeedButton7Click(Sender: TObject);
+begin
+  if speedbutton7.Text='Show Image' then
+  begin
+    prodimage.Visible:=true;
+    speedbutton7.Text:='Hide Image';
+  end
+  else
+  begin
+    prodimage.Visible:=false;
+    speedbutton7.Text:='Show Image';
+  end;
+  speedbutton7.Repaint;
+  prodimage.Repaint;
+  calculator.Repaint;
+end;
+
 procedure TForm1.FormShow(Sender: TObject);
+var ScreenService: IFMXScreenService;
+  OrientSet: TScreenOrientations;
 begin
   multiview1.HideMaster;
   tabroute.TabPosition:=ttabposition.None;
@@ -383,6 +685,8 @@ begin
   tabcustomer.TabPosition:=ttabposition.None;
   tabdashboard.TabPosition:=ttabposition.None;
   tabservice.TabPosition:=ttabposition.None;
+//  orientset:=[TScreenOrientation.soPortrait];
+//  ScreenService.SetScreenOrientation(orientset);
 end;
 
 procedure TForm1.ListBoxItem1Click(Sender: TObject);

@@ -29,10 +29,10 @@
     <Transaction>2018/03/08 15:44:28.000.056,=C:\Users\ASUS\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
     <Transaction>2018/03/08 15:44:41.000.380,=C:\Users\ASUS\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
     <Transaction>2018/03/20 11:33:38.000.825,=C:\Users\ASUS\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
-    <Transaction>2018/03/20 11:34:29.000.770,C:\Users\ASUS\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\ASUS\Documents\Embarcadero\Studio\Projects\Client2.dproj</Transaction>
-    <Transaction>2018/03/20 11:38:50.000.990,C:\Users\ASUS\Documents\Embarcadero\Studio\Projects\Unit1.fmx=C:\Users\ASUS\Documents\Embarcadero\Studio\Projects\KPSB\MultiView.fmx</Transaction>
-    <Transaction>2018/03/20 11:38:50.000.990,C:\Users\ASUS\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\ASUS\Documents\Embarcadero\Studio\Projects\KPSB\MultiView.pas</Transaction>
-    <Transaction>2018/03/20 11:39:18.000.364,C:\Users\ASUS\Documents\Embarcadero\Studio\Projects\Client2.dproj=C:\Users\ASUS\Documents\Embarcadero\Studio\Projects\KPSB\Client2.dproj</Transaction>
+    <Transaction>2018/03/20 11:34:29.000.770,C:\Users\ASUS\Documents\Embarcadero\Studio\Projects\Client2.dproj=C:\Users\ASUS\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2018/03/20 11:38:50.000.990,C:\Users\ASUS\Documents\Embarcadero\Studio\Projects\KPSB\MultiView.pas=C:\Users\ASUS\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/03/20 11:38:50.000.990,C:\Users\ASUS\Documents\Embarcadero\Studio\Projects\KPSB\MultiView.fmx=C:\Users\ASUS\Documents\Embarcadero\Studio\Projects\Unit1.fmx</Transaction>
+    <Transaction>2018/03/20 11:39:18.000.364,C:\Users\ASUS\Documents\Embarcadero\Studio\Projects\KPSB\Client2.dproj=C:\Users\ASUS\Documents\Embarcadero\Studio\Projects\Client2.dproj</Transaction>
     <Transaction>2018/03/20 19:10:40.000.057,=C:\Users\ASUS\Documents\Embarcadero\Studio\Projects\KPSB\FMX.FontGlyphs.Android.pas</Transaction>
   </Transactions>
 	<ActiveMobileDevice>
